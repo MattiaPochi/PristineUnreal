@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zgadmin/Documents/MDA/PristineUnreal/Content/Blueprints/Items/BP_GrabbableItem.uasset",
+				"C:/Users/zgadmin/Documents/MDA/PristineUnreal/Content/Blueprints/BP_CharacterCamera.uasset",
 				"C:/Users/dales/Desktop/Pristine/PristineUnreal/Content/Levels/Test.umap",
 				"C:/Users/dales/Desktop/Pristine/PristineUnreal/Content/Blueprints/BP_CharacterCamera.uasset",
 				"C:/Users/dales/Desktop/Pristine/PristineUnreal/Content/Blueprints/BP_FocusTrigger.uasset",
